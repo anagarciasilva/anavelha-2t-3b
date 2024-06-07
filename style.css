@@ -1,14 +1,14 @@
 :root{
-    --cor-fundo: #01080E ;
-    --cor-principal: #0B0D20 ;
+    --cor-fundo: #b42d2d ;
+    --cor-principal: #75a581 ;
     --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-destaque: #c3d1d3;
+    --cor-texto: #000000;
 
 }
 
 body {
-    background-color: var(--cor-fundo);
+    background-image: url(./Anna_frozen_fever_.webp);
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
