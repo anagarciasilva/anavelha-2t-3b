@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "você tem algum amigo que briga toda hora?",
+        enunciado: "Como os pais das meninas faleceram?",
         alternativas: [
             {
-                texto: "não brigo com nenhum amigo meu",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "no navio nafraugado, em meio a tempestade",
+                afirmacao: "Os pais da Anna e Elsa morerram no navio nafraugado "
             },
             {
-                texto: "tenho,varios!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Foram sequestrados pelos trols",
+                afirmacao: "não foram sequestrado."
             }
         ]
     },
